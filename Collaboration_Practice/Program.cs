@@ -17,7 +17,10 @@ namespace Collaboration_Practice
             Console.WriteLine("Hello guys it is another trial");
         }
     }
-
+    public class Check
+    {
+        int check;
+    }
 
     public class Tax_Generator
     {
