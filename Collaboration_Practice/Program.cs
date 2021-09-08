@@ -30,6 +30,7 @@ namespace Collaboration_Practice
             Console.WriteLine("Your Tax is {0}!!", Calculate(income));
             Console.ReadKey();
             Console.WriteLine("");
+            Console.WriteLine("");
         }
         public double Calculate(double income)
         {
