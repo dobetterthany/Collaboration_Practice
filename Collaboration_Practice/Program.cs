@@ -21,6 +21,11 @@ namespace Collaboration_Practice
         }
     }
 
+    public class Check
+    {
+        int check;
+        int double check
+    }
 
     public class Tax_Generator
     {
